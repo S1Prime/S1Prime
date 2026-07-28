@@ -1,0 +1,8 @@
+name: Generate Snake
+on:
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Configure Platane/snk here"

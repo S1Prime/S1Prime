@@ -1,47 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Vaishnav Venu
 
-Name: Vaishnav Venu
-GitHub Username: S1Prime
+> Futuristic GitHub profile starter.
 
-Role:
-Computer Science Student
+## About
+- 🎓 B.Tech CSE, Amrita Vishwa Vidyapeetham
+- 💻 Learning Java, Spring Boot, Python, SQL
+- 🚀 Projects: Hotel Management System, Quiz Management System, Portfolio, Calculator, AI Startup Scout
 
-Location:
-Kerala, India
-
-Education:
-B.Tech CSE
-Amrita Vishwa Vidyapeetham
-
-Status:
-Learning • Building • Shipping
-
-Languages:
-C
-Python
-Java
-JavaScript
-
-Frontend:
-HTML
-CSS
-Bootstrap
-
-Backend:
-Java
-Spring Boot
-
-Database:
-MySQL
-SQL
-
-Tools:
-VS Code
-Git
-GitHub
-
-Portfolio:
-https://s1prime.github.io/Portfolio/
-
-Email:
-vaishnavvenu@gmai.com
+## TODO
+- Add banner.svg to assets/
+- Configure GitHub stats
+- Configure contribution snake
