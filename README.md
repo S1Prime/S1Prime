@@ -1,107 +1,144 @@
-<h1 align="center">&lt; ACCESS GRANTED /&gt;</h1>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00FF9C&height=200&section=header&text=ACCESS%20GRANTED&fontSize=50&fontColor=00FF9C&fontAlignY=35&desc=Welcome%20to%20the%20mainframe&descAlignY=55&descColor=6bffb8&animation=fadeIn)
+
+</div>
+
+# &lt; ACCESS GRANTED /&gt;
 
 ```text
-    _       _ ____    _    _
-   / \     | / ___|  / \  | |
-  / _ \ _  | \___ \ / _ \ | |
- / ___ \ |_| |___) / ___ \| |___
-/_/   \_\___/|____/_/   \_\_____|
+██╗   ██╗ █████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ ██╗   ██╗
+██║   ██║██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗██║   ██║
+██║   ██║███████║██║███████╗███████║██╔██╗ ██║███████║██║   ██║
+╚██╗ ██╔╝██╔══██║██║╚════██║██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+ ╚████╔╝ ██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
+  ╚═══╝  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Initializing+user+profile...;Authentication+successful;Welcome%2C+Ajsal." alt="typing-svg" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Initializing+user+profile...;Authentication+successful;Welcome%2C+Vaishnav.)
+
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=for-the-badge&color=00FF9C&logo=github)](https://github.com/YourUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
+
+</div>
+
+> **INITIALIZING USER PROFILE...**
+
+```bash
+$ login
+
+Authentication Successful...
+Welcome, Vaishnav.
+```
 
 ---
 
-## WHOAMI
+# WHOAMI
 
 ```bash
 $ whoami
 
-Name        : Ajsal
-Role        : MCA Student — AI & Data Science
-Background  : BCA in Data Science (Class of 2026)
-Institute   : Amrita Vishwa Vidyapeetham, Amritapuri
-Location    : Kerala, India
-Focus       : Biomedical AI • Full-Stack Systems • Applied ML
+Name        : Vaishnav
+Role        : Computer Science Engineering Student
+Location    : India
 Status      : Online
-Mission     : Research • Build • Publish
+Mission     : Learn • Build • Innovate
 ```
 
 ---
 
-## SYSTEM INFORMATION
+# SYSTEM INFORMATION
 
 ```yaml
-OS            : Windows 11
+OS            : Windows
 Editor        : VS Code
-Languages     : Python • TypeScript/JavaScript • SQL • HTML • CSS
-Frameworks    : FastAPI • Flask • React • Flutter
-ML Stack      : PyTorch • Scikit-learn • SciPy • ChromaDB • Ollama
-Version       : v3.0
+Languages     : HTML • CSS • JavaScript • Python • Java • SQL
+Frameworks    : Bootstrap
+Version       : v2.0
 Status        : ACTIVE
 ```
 
+<div align="center">
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
+
 ---
 
-## LOADING SKILLS
+# LOADING SKILLS
 
 ```text
 █████████████████████████████████ 100%
 
-Python              ██████████████ 95%
-Machine Learning    █████████████  90%
-FastAPI / Flask     █████████████  90%
-React / TypeScript  ████████████   85%
-SQL                 ████████████   85%
-LLM / RAG Systems   ███████████    80%
-Flutter             ██████████     75%
-Git                 █████████████  90%
+HTML5          ██████████████ 100%
+CSS3           █████████████  95%
+JavaScript     ███████████    90%
+Python         ███████████    90%
+Java           █████████      80%
+SQL            █████████      85%
+Git            ██████████     90%
 ```
 
 ---
 
-## CURRENT PROJECTS
+# CURRENT PROJECTS
 
 ```text
-▶ NeuroSync PD        — multimodal Parkinson's clinical AI system (CMPB, under review)
-▶ EdgeEEG-ND           — EEG-based neurodegeneration detection, IoT-deployable
-▶ ZED                  — local AI desktop control system (FastAPI + Flutter)
-▶ FormulaGun           — AI stock & crypto predictive dashboard
-▶ Drishti              — full-stack AI web application
-▶ Aadhaar OCR Reader    — desktop OCR utility for registration desks
-▶ Calculus Token Engine — visual-to-AST symbolic math compiler
+▶ Hotel Management System
+▶ Quiz Management System
+▶ Student Task Manager
+▶ Portfolio Website
+▶ Modern Calculator
 ```
 
 ---
 
-## CURRENT OBJECTIVES
+# CURRENT OBJECTIVES
 
 ```yaml
-[✓] Ship a research-grade biomedical AI system end-to-end
-[✓] Build full-stack production systems (FastAPI, React, Flutter)
-[✓] Practice applied ML — RAG, fine-tuning, signal processing
-[ ] Publish first paper in a peer-reviewed journal
-[ ] Pursue PhD in computational neuroscience / CS
-[ ] Contribute to open source
+[✓] Master Frontend Development
+[✓] Improve Java Programming
+[✓] Learn Backend Development
+[✓] Practice Data Structures
+[ ] Explore Artificial Intelligence
+[ ] Contribute to Open Source
 ```
 
 ---
 
-## SYSTEM MONITOR
+# SYSTEM MONITOR
 
 ```text
-Focus Level      █████████░░ 88%
+CPU Usage        █████████░░ 89%
 Coffee Level     ████████░░░ 80%
-Research Mode    ██████████ 100%
+Coding Mood      ██████████ 100%
 Bug Detector     ACTIVE
 Sleep Mode       DISABLED
 ```
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
+
+</div>
+
 ---
 
-## TERMINAL
+# TERMINAL
 
 ```bash
 $ sudo run future
@@ -109,22 +146,33 @@ $ sudo run future
 Initializing...
 
 Loading Modules...
-✔ Research
-✔ Engineering
+✔ Coding
+✔ Problem Solving
 ✔ Learning
-✔ Publishing
+✔ Innovation
 
 STATUS: SUCCESS
 ```
 
 ---
 
-## CONNECT
+# CONNECT
 
 ```text
-GitHub      : github.com/Marksman8
-Portfolio   : ajsalashraf.netlify.app
+GitHub      : github.com/YourUsername
+Portfolio   : yourportfolio.com
+LinkedIn    : linkedin.com/in/yourprofile
+Email       : your@email.com
 ```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0d1117)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+
+</div>
 
 ---
 
@@ -133,9 +181,19 @@ Portfolio   : ajsalashraf.netlify.app
 
 Follow the white rabbit.
 
-Learn.
-Build.
+Wake up.
+Code.
 Repeat."
 ```
 
-<p align="center">⭐ <b>Thank you for visiting my GitHub profile.</b></p>
+---
+
+<div align="center">
+
+⭐ **Thank you for visiting my GitHub profile.**
+
+![Snake animation](https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0F2027&height=100&section=footer)
+
+</div>
