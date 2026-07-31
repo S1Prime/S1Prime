@@ -71,7 +71,7 @@ Status        : ACTIVE
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Google AI](https://skillicons.dev/icons?i=googlecloud)
+![Antigravity](https://skillicons.dev/icons?i=antigravity)
 
 </div>
 
