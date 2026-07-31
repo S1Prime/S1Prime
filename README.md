@@ -53,7 +53,7 @@ Mission     : Learn • Build • Innovate
 
 ```yaml
 OS            : Windows
-Editor        : VS Code
+Editor        : Anti-Gravity
 Languages     : HTML • CSS • JavaScript • Python • Java • SQL
 Frameworks    : Bootstrap
 Version       : v2.0
@@ -100,6 +100,8 @@ Git            ██████████     90%
 ▶ Student Task Manager
 ▶ Portfolio Website
 ▶ Modern Calculator
+▶ Personal Budget Tracker
+▶ Campus OS
 ```
 
 ---
@@ -159,18 +161,18 @@ STATUS: SUCCESS
 # CONNECT
 
 ```text
-GitHub      : github.com/YourUsername
-Portfolio   : yourportfolio.com
-LinkedIn    : linkedin.com/in/yourprofile
-Email       : your@email.com
+GitHub      : github.com/S1Prime
+Portfolio   : https://portfolio-psi-pied-e2y4tkk8wx.vercel.app
+LinkedIn    : https://www.linkedin.com/in/vaishnav-venu-079a2a383/
+Email       : vaishnavvenu2007@gmail.com
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0d1117)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117)](https://github.com/S1Prime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vaishnav-venu-079a2a383/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0d1117)](https://portfolio-psi-pied-e2y4tkk8wx.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vaishnavvenu2007@gmail.com)
 
 </div>
 
