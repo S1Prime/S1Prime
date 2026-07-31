@@ -30,7 +30,7 @@
 $ login
 
 Authentication Successful...
-Welcome, Vaishnav.
+Welcome, Vaishnav Venu.
 ```
 
 ---
@@ -38,7 +38,7 @@ Welcome, Vaishnav.
 # WHO AM I
 
 ```bash
-$ whoami
+$ who am i
 
 Name        : Vaishnav
 Role        : Computer Science Engineering Student
