@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Initializing+user+profile...;Authentication+successful;Welcome%2C+Vaishnav.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Initializing+user+profile...;Authentication+successful;Welcome%2C+Vaishnav.Venu.)
 
 [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=for-the-badge&color=00FF9C&logo=github)](https://github.com/YourUsername)
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
