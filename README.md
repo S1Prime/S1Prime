@@ -35,7 +35,7 @@ Welcome, Vaishnav.
 
 ---
 
-# WHOAMI
+# WHO AM I
 
 ```bash
 $ whoami
