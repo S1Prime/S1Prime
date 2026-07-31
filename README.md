@@ -195,7 +195,7 @@ Repeat."
 
 ⭐ **Thank you for visiting my GitHub profile.**
 
-![Snake animation](https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/S1Prime/S1Prime/output/github-contribution-grid-snake-dark.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0F2027&height=100&section=footer)
 
