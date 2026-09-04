@@ -108,6 +108,24 @@ interests:
   - Artificial Intelligence
   - Developer Tooling
   - Open Source
+> tech.stack
+<div align="center">
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql&perline=6"/>
+
+<br><br>
+
+BACKEND / FRAMEWORKS
+<img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap&perline=6"/>
+
+<br><br>
+
+TOOLS / PLATFORMS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=6"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+%7C+Database;Java+%7C+Python+%7C+JavaScript;MySQL+%7C+REST+APIs+%7C+Git;Building+Full-Stack+Applications"/> </div>
 ┌──────────────────────────────────────────────────────────────┐
 │                    ENGINEERING STACK                        │
 ├──────────────────────────────────────────────────────────────┤
@@ -173,6 +191,8 @@ interests:
                          │                       │
                          │        MySQL          │
                          └───────────────────────┘
+> projects --featured
+<div align="center"> <a href="https://github.com/S1Prime/Hotel-Management-System-DBMS"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=S1Prime&repo=Hotel-Management-System-DBMS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C"/> </a> </div>
 project: Hotel Management System
 type: Database Application
 status: Development
